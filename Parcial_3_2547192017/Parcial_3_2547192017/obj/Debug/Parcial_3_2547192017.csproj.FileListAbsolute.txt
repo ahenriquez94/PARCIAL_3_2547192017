@@ -1,0 +1,12 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\bin\Debug\Parcial_3_2547192017.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\bin\Debug\Parcial_3_2547192017.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\bin\Debug\Parcial_3_2547192017.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\obj\Debug\Parcial_3_2547192017.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\obj\Debug\Parcial_3_2547192017.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\obj\Debug\Parcial_3_2547192017.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\obj\Debug\Parcial_3_2547192017.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\obj\Debug\Parcial_3_2547192017.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\obj\Debug\Parcial_3_2547192017.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\obj\Debug\Parcial_3_2547192017.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\obj\Debug\Parcial_3_2547192017.Form2.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_3_2547192017\Parcial_3_2547192017\obj\Debug\Parcial_3_2547192017.AboutBox1.resources
